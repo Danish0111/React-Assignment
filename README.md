@@ -1,16 +1,33 @@
-# React + Vite
+# Md Danish
+# danish150106@gmail.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React Assignment – JavaScript Concepts
 
-Currently, two official plugins are available:
+This project demonstrates basic JavaScript ES6 features inside React components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Concepts Covered
 
-## React Compiler
+* Array Methods: `.map()`, `.filter()`, `.reduce()`
+* Object Destructuring
+* Template Literals
+* Conditional Rendering
+* Async / Await (API fetching)
+* Spread Operator
+* Import / Export
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## How to Run
 
-## Expanding the ESLint configuration
+* Install dependencies:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  ```bash
+  npm install
+  ```
+* Start the project:
+
+  ```bash
+  npm run dev
+  ```
+
+## Purpose
+
+* To practice core JavaScript concepts and understand how they are used inside React.
